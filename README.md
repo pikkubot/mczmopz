@@ -1,4 +1,4 @@
-
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=HI+welcome+to+Paathu+repo;Created+by+Fasil;This+is+a+normal+whatsapp+Bot+with+media+clips;With+more+features)](https://git.io/typing-svg)
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/bXIs6fy.jpeg" width="200" height="200"/>
   <p align="center">
