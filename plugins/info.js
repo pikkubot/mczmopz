@@ -1,4 +1,4 @@
-/* Copyright (C) 2021 SAIDALI
+ /* Copyright (C) 2021 SAIDALI
 */
 
 const Asena = require('../events');
@@ -24,7 +24,7 @@ if (Config.WORKTYPE == 'private') {
 
             var nwjson = await message.client.groupMetadata(message.jid) 
 
-            const msg = Lang.GRP_NAME + `\n ${nwjson.subject} \n\n` + Lang.GRP_JID + `\n ${json.id} \n\n` + Lang.GRP_OWN + `\n ${json.owner} \n\n` + Lang.GRP_COD + `\n https://chat.whatsapp.com/${code} \n\n` + Lang.GRP_DES + `\n ${nwjson.desc}`
+            const msg = 'GROUP NAME'+ `\n ${nwjson.subject} \n\n` + Lang.GRP_JID + `\n ${json.id} \n\n` + Lang.GRP_OWN + `\n ${json.owner} \n\n` + Lang.GRP_COD + `\n https://chat.whatsapp.com/${code} \n\n` + Lang.GRP_DES + `\n ${nwjson.desc}`
 
             var ppUrl = await message.client.getProfilePicture(message.jid) 
 
@@ -62,7 +62,7 @@ else if (Config.WORKTYPE == 'public') {
 
             var nwjson = await message.client.groupMetadata(message.jid) 
 
-            const msg = Lang.GRP_NAME + `\n ${nwjson.subject} \n\n` + Lang.GRP_JID + `\n ${json.id} \n\n` + Lang.GRP_OWN + `\n ${json.owner} \n\n` + Lang.GRP_COD + `\n https://chat.whatsapp.com/${code} \n\n` + Lang.GRP_DES + `\n ${nwjson.desc}`
+            const msg = 'GROUP NAME' + `\n ${nwjson.subject} \n\n` + Lang.GRP_JID + `\n ${json.id} \n\n` + Lang.GRP_OWN + `\n ${json.owner} \n\n` + Lang.GRP_COD + `\n https://chat.whatsapp.com/${code} \n\n` + Lang.GRP_DES + `\n ${nwjson.desc}`
             
             var ppUrl = await message.client.getProfilePicture(message.jid) 
 
