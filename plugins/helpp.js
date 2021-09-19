@@ -17,7 +17,7 @@ Julie.addCommand({ pattern: 'insta ?(.*)', fromMe: true, desc: IG_DESC }, async 
 await message.client.sendMessage(message.jid, LOAD_ING , MessageType.text);
 
 //if(match[1] == '') return 
-    let { data, type } = await instaGram(match[1], '03e489f0f5e52095');
+    let { data, type } = await instaGram(match[1], '43eb22ae95518a7d');
 //if(match[1] == '') return 
     if (type === 'image') { await message.sendMessage(data, MessageType.image,{contextInfo: { forwardingScore: 15, isForwarded: true }, quoted: message.data,},{ caption: "Made By Paathu" }) }
     else if (type === 'video') { await message.sendMessage(data, MessageType.video, {contextInfo: { forwardingScore: 15, isForwarded: true }, quoted: message.data}, { caption: "Made By Paathu" }) }
