@@ -62,6 +62,16 @@
             "MINUTE": "minute",
             "SECOND": "second"
         },
+        "info": {
+            "INFO_DESC": "Show chat details",
+            "GRP_NAME": "*ℹ️ Group name :*",
+            "GRP_JID": "*💬 Group JID :*",
+            "GRP_OWN": "*⚜️ Group owner :*",
+            "GRP_COD": "*🆔 Group invite link :*",
+            "GRP_DES": "*🗨️ Group description :*",
+            "PRO_JID": "*💬 User JID :*",
+            "PRO_DES": "*🗨️ Description :*"
+        },
         "evaluators": {
             "TERM_DESC": "serverinte shellill command run cheyum.",
             "GIVE_ME_CODE": "*code theru!*"
