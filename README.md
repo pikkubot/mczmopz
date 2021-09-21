@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://bit.ly/3koZRGY"><img src="https://fontmeme.com/permalink/210921/b08d0741ca22abb41ef078b50bddff8a.png" alt="google-font" border="0"></a>
-
+<div align="center">
   <img border-radius: 15px src="https://i.imgur.com/bXIs6fy.jpeg" width="200" height="200"/>
 </p>
 <details>
