@@ -1,6 +1,14 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=HI+welcome+to+Paathu+repo;Created+by+Fasil;This+is+a+normal+whatsapp+Bot+with+media+clips;With+more+features)](https://git.io/typing-svg)
+<a href="https://bit.ly/3koZRGY"><img src="https://fontmeme.com/permalink/210921/b08d0741ca22abb41ef078b50bddff8a.png" alt="google-font" border="0"></a>
+
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/bXIs6fy.jpeg" width="200" height="200"/>
+</p>
+<details>
+        <summary>⏬ <b>CLICK HERE TO SCAN AND DEPLOY🤗</b></summary>
+
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=HI+welcome+to+Paathu+repo;Created+by+Fasil;This+is+a+normal+whatsapp+Bot+with+media+clips;With+more+features)](https://git.io/typing-svg)
+
   <p align="center">
 <a href="#"><img title="Paathu" src="https://img.shields.io/badge/Paathu-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
