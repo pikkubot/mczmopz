@@ -9,6 +9,8 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=HI+welcome+to+Paathu+repo;Created+by+Fasil;This+is+a+normal+whatsapp+Bot+with+media+clips;With+more+features)](https://git.io/typing-svg)
 
+ </a>
+</p>
   <p align="center">
 <a href="#"><img title="Paathu" src="https://img.shields.io/badge/Paathu-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
