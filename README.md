@@ -95,7 +95,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Fasil-vkn](https://github.com/Paathu-407x400.png?size=100)](https://github.com/Fasil-vkn) |  
+  [![Fasil-vkn](https://github.com/Fazil-vkn.png?size=100)](https://github.com/Fasil-vkn) |  
 
 
 
