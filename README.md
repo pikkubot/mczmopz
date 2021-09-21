@@ -3,8 +3,7 @@
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/bXIs6fy.jpeg" width="200" height="200"/>
 </p>
-<details>
-        <summary>⏬ <b>CLICK HERE TO SCAN AND DEPLOY🤗</b></summary>
+
 
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=HI+welcome+to+Paathu+repo;Created+by+Fasil;This+is+a+normal+whatsapp+Bot+with+media+clips;With+more+features)](https://git.io/typing-svg)
@@ -58,7 +57,6 @@ If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Te
 ```
 bash <(curl -L https://t.ly/tHxh)
 ``` 
-  </details>
   
 ### The Hard Method
 ```js
