@@ -45,7 +45,7 @@ var i = Math.floor(25*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.documemt, {filename: 'Made by Paathu', mimetype: Mimetype.png})
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: 'Made by Paathu'})
 
     }));
 }
@@ -85,7 +85,7 @@ var i = Math.floor(25*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.document, {filename: 'Made by Paathu', mimetype: Mimetype.png})})
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: Config.AFN})
 
     }));
 }
